@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LawOfDemeter.After", "LawOfDemeter.After\LawOfDemeter.After.csproj", "{48FD9029-6B4B-433B-A431-33F9F286DB14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LawOfDemeter.Before", "LawOfDemeter.Before\LawOfDemeter.Before.csproj", "{8D77C8D0-8E0A-4B1A-AC65-D48549B9FB71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48FD9029-6B4B-433B-A431-33F9F286DB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FD9029-6B4B-433B-A431-33F9F286DB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FD9029-6B4B-433B-A431-33F9F286DB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FD9029-6B4B-433B-A431-33F9F286DB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D77C8D0-8E0A-4B1A-AC65-D48549B9FB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D77C8D0-8E0A-4B1A-AC65-D48549B9FB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D77C8D0-8E0A-4B1A-AC65-D48549B9FB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D77C8D0-8E0A-4B1A-AC65-D48549B9FB71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B380EF91-C983-4DF0-89E4-FD8046687078}
+	EndGlobalSection
+EndGlobal
